@@ -165,7 +165,7 @@ Cada perfil (`Ximena`, `Franco`, `Rodrigo`, `Mara`) es un componente independien
 
 ## Enlace al Proyecto Desplegado
 
-**[🔗 Ver en Vercel](#)** ← reemplazar con el link real
+**[🔗 Ver en Vercel](https://tp2-front-end-dynamis.vercel.app/)** 
 
 ---
 
